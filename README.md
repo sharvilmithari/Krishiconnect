@@ -1,36 +1,183 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# KrishiConnect 🌾
 
-## Getting Started
+> Access to machinery. Intelligence for better farming.
 
-First, run the development server:
+KrishiConnect is an AgriTech platform developed to solve one of the biggest challenges faced by Indian farmers — limited access to agricultural machinery and lack of proper farming guidance.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+The platform allows farmers to easily discover, rent, and schedule nearby farming equipment while also providing smart crop insights and farming recommendations using technology-driven solutions.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Developed as a project for **Gravity 2026 Competition**, KrishiConnect focuses on building a smarter and more accessible farming ecosystem for small and medium-scale farmers.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🚜 Problem Statement
 
-## Learn More
+Many farmers in India face challenges such as:
 
-To learn more about Next.js, take a look at the following resources:
+- High cost of purchasing farming machinery
+- Limited availability of equipment in rural areas
+- Lack of proper crop guidance and timely insights
+- Unorganized rental systems with inconsistent pricing
+- Low access to modern farming technologies
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+As a result, farmers often experience:
+- Increased operational costs
+- Lower farming efficiency
+- Delayed decision-making
+- Reduced productivity
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 💡 Our Solution
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+KrishiConnect provides:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### ✅ Farm Machinery Rental System
+Farmers can:
+- Discover nearby agricultural machines
+- Compare availability and pricing
+- Book machines easily using scheduling
+
+### ✅ Smart Farming Insights
+The platform also focuses on:
+- Crop monitoring
+- Satellite-based insights
+- Irrigation recommendations
+- Farming guidance and alerts
+
+### ✅ Transparent & Organized Platform
+- Easy booking workflow
+- Location-based discovery
+- Availability management
+- Rental tracking system
+
+---
+
+## ✨ Key Features
+
+- 🔍 Location-based machine discovery
+- 📅 Smart booking & scheduling system
+- 🚜 Farm equipment rental marketplace
+- 🌱 Crop insights & recommendations
+- 📍 Transparent pricing and availability
+- 👨‍🌾 Farmer-friendly interface
+- 💰 Machine owner earning system
+- 📈 Scalable AgriTech ecosystem
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- HTML5
+- CSS3
+- JavaScript
+
+### Backend / Services
+- Firebase
+- Authentication & Database Services
+
+### Other Concepts Used
+- Location-Based Services
+- Smart Agriculture Concepts
+- Satellite Insight Integration (Conceptual)
+
+---
+
+## 📱 How It Works
+
+### Farmer Workflow
+1. Select location
+2. Find nearby machines
+3. Compare prices & availability
+4. Book machinery
+5. Receive farming insights
+
+### Machine Owner Workflow
+1. List machinery
+2. Set pricing & availability
+3. Receive booking requests
+4. Earn through rentals
+
+---
+
+## 📊 Market Opportunity
+
+India has over **140+ million farmers**, with the majority being small and medium-scale farmers.
+
+Farm mechanization in India is still relatively low compared to global standards, creating a large opportunity for affordable and accessible machinery-sharing solutions like KrishiConnect.
+
+---
+
+## 💰 Revenue Model
+
+KrishiConnect can generate revenue through:
+
+- Commission per booking
+- Premium machine listings
+- Subscription plans
+- Value-added services
+- Referral & reward systems
+
+---
+
+## 🚀 Future Scope
+
+- AI-powered crop disease detection
+- Advanced satellite monitoring
+- Integration with government schemes
+- Insurance & financial partnerships
+- Expansion across districts and states
+- Complete smart farming ecosystem
+
+---
+
+## 👨‍💻 Team Contribution
+
+This project was collaboratively developed as part of the **Gravity 2026 Competition**.
+
+My contributions included:
+- Frontend development
+- UI/UX improvements
+- Feature planning
+- Project presentation
+- System workflow development
+
+---
+
+## 📷 Screenshots
+
+> Add your screenshots here
+
+- Homepage
+- Machine listing page
+- Booking system
+- Crop insights dashboard
+
+---
+
+## 📌 Project Status
+
+🚧 Prototype / Competition Project
+
+KrishiConnect is currently a competition-based prototype developed to demonstrate how technology can improve accessibility and efficiency in agriculture.
+
+---
+
+## 🤝 Vision
+
+KrishiConnect aims to bridge the gap between farmers and modern agricultural technology by making machinery access smarter, affordable, and more efficient.
+
+---
+
+## 📬 Contact
+
+For collaborations, improvements, or discussions:
+
+- LinkedIn: Add your LinkedIn profile
+- GitHub: Add your GitHub profile
+
+---
+
+### 🌾 “KrishiConnect is not just connecting farmers to machines — it’s enabling smarter and more efficient farming.”
