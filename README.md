@@ -146,17 +146,6 @@ My contributions included:
 
 ---
 
-## 📷 Screenshots
-
-> Add your screenshots here
-
-- Homepage
-- Machine listing page
-- Booking system
-- Crop insights dashboard
-
----
-
 ## 📌 Project Status
 
 🚧 Prototype / Competition Project
