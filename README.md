@@ -164,8 +164,8 @@ KrishiConnect aims to bridge the gap between farmers and modern agricultural tec
 
 For collaborations, improvements, or discussions:
 
-- LinkedIn: Add your LinkedIn profile
-- GitHub: Add your GitHub profile
+- LinkedIn: https://www.linkedin.com/in/sharvil-mithari-441169233/
+- GitHub: https://github.com/sharvilmithari
 
 ---
 
